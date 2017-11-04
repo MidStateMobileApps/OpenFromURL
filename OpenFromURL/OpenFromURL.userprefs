@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{E5F62BE6-51F7-47EC-A70F-A7585409F7A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenFromURL/Webber.xaml.cs">
+    <Files>
+      <File FileName="OpenFromURL/OpenFromURLPage.xaml" Line="18" Column="1" />
+      <File FileName="OpenFromURL/OpenFromURLPage.xaml.cs" Line="39" Column="46" />
+      <File FileName="OpenFromURL/Webber.xaml" Line="8" Column="1" />
+      <File FileName="OpenFromURL/Webber.xaml.cs" Line="12" Column="35" />
+      <File FileName="OpenFromURL/App.xaml.cs" Line="36" Column="9" />
+      <File FileName="OpenFromURL/WTCSSchool.cs" Line="8" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OpenFromURL.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2026E450-FC70-40AA-B296-8E199D513FDA">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.OpenFromURL.iOS>
+  <MonoDevelop.Ide.ItemProperties.OpenFromURL.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
